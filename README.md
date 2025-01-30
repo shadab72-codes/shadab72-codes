@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadab72-codes&label=Profile%20views&color=0e75b6&style=flat" alt="shadab72-codes" /> </p>
 
-- 🔭 I’m currently working on Scam Analyst [OLA Power Bi Project](github.com/shadab72-codes/Power-Bi-Dashboard)
+- 🔭 I’m currently working on New Project [OLA Power Bi Project](github.com/shadab72-codes/Power-Bi-Dashboard)
 
 - 📚 I’m Currently Learning **Python for Data Analysis & Visualization**
 
